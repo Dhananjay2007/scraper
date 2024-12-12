@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vulnerabilities</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 p-6">
+  <div class="container mx-auto">
+    <h1 class="text-2xl font-bold mb-4">Vulnerabilities</h1>
+    <input 
+      id="product-title" 
+      type="text" 
+      class="border border-gray-300 rounded-md p-2 mb-4 w-full" 
+      placeholder="Enter product title..." 
+    />
+    <button 
+      id="fetch-button" 
+      class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">
+      Fetch Vulnerabilities
+    </button>
+    <div id="error-message" class="text-red-500 mt-4 hidden"></div>
+    <div class="overflow-x-auto mt-6">
+      <table class="table-auto w-full bg-white shadow-md rounded">
+        <thead class="bg-gray-200">
+          <tr>
+            <th class="px-4 py-2">Identifier</th>
+            <th class="px-4 py-2">Title</th>
+            <th class="px-4 py-2">Severity</th>
+            <th class="px-4 py-2">CVE</th>
+            <th class="px-4 py-2">CWE</th>
+            <th class="px-4 py-2">First Published</th>
+            <th class="px-4 py-2">Last Published</th>
+            <th class="px-4 py-2">Summary</th>
+            <th class="px-4 py-2">Affected Products</th>
+            <th class="px-4 py-2">URL</th>
+          </tr>
+        </thead>
+        <tbody id="vulnerabilities-table" class="text-sm"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    const fetchButton = document.getElementById('fetch-button');
+    const productTitleInput = document.getElementById('product-title');
+    const tableBody = document.getElementById('vulnerabilities-table');
+    const errorMessage = document.getElementById('error-message');
+
+    async function fetchVulnerabilities() {
+      const productTitle = productTitleInput.value.trim();
+      if (!productTitle) {
+        errorMessage.textContent = 'Please enter a product title.';
+        errorMessage.classList.remove('hidden');
+        return;
+      }
+      errorMessage.classList.add('hidden');
+      tableBody.innerHTML = ''; // Clear previous data
+
+      try {
+        const response = await fetch(`/api/vulnerabilities?product_title=${encodeURIComponent(productTitle)}`);
+        if (!response.ok) throw new Error(`Error: ${response.statusText}`);
+
+        const data = await response.json();
+        if (data.error) throw new Error(data.error);
+
+        if (data.length === 0) {
+          errorMessage.textContent = 'No vulnerabilities found.';
+          errorMessage.classList.remove('hidden');
+          return;
+        }
+
+        data.forEach((vulnerability) => {
+          const row = document.createElement('tr');
+          row.className = 'border-b';
+
+          row.innerHTML = `
+            <td class="px-4 py-2">${vulnerability.Identifier || 'N/A'}</td>
+            <td class="px-4 py-2">${vulnerability.Title || 'N/A'}</td>
+            <td class="px-4 py-2">${vulnerability.Severity || 'N/A'}</td>
+            <td class="px-4 py-2">${vulnerability.CVE || 'N/A'}</td>
+            <td class="px-4 py-2">${vulnerability.CWE || 'N/A'}</td>
+            <td class="px-4 py-2">${vulnerability['First Published'] || 'N/A'}</td>
+            <td class="px-4 py-2">${vulnerability['Last Published'] || 'N/A'}</td>
+            <td class="px-4 py-2">${vulnerability.Summary || 'N/A'}</td>
+            <td class="px-4 py-2 overflow-y-auto max-h-20">${(vulnerability['Affected Products'] || []).join('<br>')}</td>
+            <td class="px-4 py-2"><a href="${vulnerability.URL}" class="text-blue-500" target="_blank">Link</a></td>
+          `;
+          tableBody.appendChild(row);
+        });
+      } catch (error) {
+        errorMessage.textContent = error.message;
+        errorMessage.classList.remove('hidden');
+      }
+    }
+
+    fetchButton.addEventListener('click', fetchVulnerabilities);
+  </script>
+</body>
+</html>
