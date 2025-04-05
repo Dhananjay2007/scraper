@@ -1,0 +1,475 @@
+Advisory ID,Published Date,Severity,URL,Product Impact,Description,CVE IDs
+LEN-180503,"Multi-vendor BIOS Security Vulnerabilities (December, 2024)","CVE-2024-21944, CVE-2024-33044, CVE-2024-33056",https://support.lenovo.com/us/en/product_security/LEN-180503,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-174319,Lenovo Accessories and Display Manager (LADM) and Lenovo Display Control Center (LDCC) Vulnerabilities,"CVE-2024-4762, CVE-2024-6001",https://support.lenovo.com/us/en/product_security/LEN-174319,,,
+LEN-167314,Dolby Privilege Escalation Vulnerability,CVE-2024-44074,https://support.lenovo.com/us/en/product_security/LEN-167314,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-87822,Intel Chipset Firmware Advisory,CVE-2022-26074,https://support.lenovo.com/us/en/product_security/LEN-87822,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-178303,"Multi-vendor BIOS Security Vulnerabilities (November, 2024)","CVE-2023-22351, CVE-2023-23904, CVE-2023-25546, CVE-2023-41833, CVE-2023-42772, CVE-2023-43626, CVE-2023-43753, CVE-2024-21820, CVE-2024-21829, CVE-2024-21850, CVE-2024-21853, CVE-2024-21871,
+			CVE-2024-22185, CVE-2024-23599, CVE-2024-23918, CVE-2024-23984, CVE-2024-24968, CVE-2024-24985, CVE-2024-25565, CVE-2024-33658, CVE-2024-33660, CVE-2024-36242, CVE-2024-38660, CVE-2024-39707, CVE-2024-42442",https://support.lenovo.com/us/en/product_security/LEN-178303,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-173640,NVIDIA GPU Display Driver - October 2024,"CVE-2024-0126, CVE-2024-0117, CVE-2024-0118, CVE-2024-0119, CVE-2024-0120, CVE-2024-0121, CVE-2024-0127, CVE-2024-0128,",https://support.lenovo.com/us/en/product_security/LEN-173640,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-171280,Intel Graphics Software Advisory,"CVE-2024-38665, CVE-2024-34023, CVE-2024-34170, CVE-2024-23919",https://support.lenovo.com/us/en/product_security/LEN-171280,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-170985,Qualcomm Bluetooth Controller Vulnerability,CVE-2024-38408,https://support.lenovo.com/us/en/product_security/LEN-170985,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-167703,Intel Graphics Compiler and Intel Arc Pro Graphics Advisory,"CVE-2024-32044, CVE-2024-34028, CVE-2024-32667",https://support.lenovo.com/us/en/product_security/LEN-167703,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-167700,Intel PROSet Wireless WiFi Advisory,"CVE-2024-35245, CVE-2024-33624, CVE-2024-33611",https://support.lenovo.com/us/en/product_security/LEN-167700,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-167315,AMD HIP SDK Incorrect Default Permissions Vulnerability,CVE-2024-21937,https://support.lenovo.com/us/en/product_security/LEN-167315,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-166568,NVIDIA GPU Display Driver - July 2024,CVE-2024-0107,https://support.lenovo.com/us/en/product_security/LEN-166568,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-165524,"Multi-vendor BIOS Security Vulnerabilities (September, 2024)","CVE-2021-33164, CVE-2023-22351, CVE-2023-23904, CVE-2023-25546, CVE-2023-41833, CVE-2023-42772, CVE-2023-43626, CVE-2023-43753, CVE-2024-21781, CVE-2024-21829, CVE-2024-21871, CVE-2024-23599, CVE-2024-23984, CVE-2024-24968, CVE-2024-3100, CVE-2024-33016, CVE-2024-45105, CVE-2024-4550, CVE-2024-7756",https://support.lenovo.com/us/en/product_security/LEN-165524,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-165230,Qualcomm WLAN Vulnerability,CVE-2024-33051,https://support.lenovo.com/us/en/product_security/LEN-165230,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-165035,AMD Uninitialized GPU Register Access Advisory,CVE-2024-21969,https://support.lenovo.com/us/en/product_security/LEN-165035,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-164067,"Multi-vendor BIOS Security Vulnerabilities (August, 2024)","CVE-2021-26344, CVE-2021-26367, CVE-2021-26387, CVE-2021-46746, CVE-2021-46772, CVE-2022-23815, CVE-2022-23817, CVE-2022-30426, CVE-2023-20518, CVE-2023-20578, CVE-2023-20584, CVE-2023-20591, CVE-2023-31315, CVE-2023-31355, CVE-2023-31356, CVE-2023-39535, CVE-2023-39536, CVE-2023-39537, CVE-2023-42667, CVE-2023-43490, CVE-2023-49141, CVE-2024-21801, CVE-2024-21978, CVE-2024-21980, CVE-2024-21981, CVE-2024-22374, CVE-2024-24853, CVE-2024-24980, CVE-2024-25939, CVE-2024-33656, CVE-2024-33657, CVE-2024-39283",https://support.lenovo.com/us/en/product_security/LEN-164067,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-163492,Intel Arc and Xe Graphics Software Advisory,CVE-2024-28050,https://support.lenovo.com/us/en/product_security/LEN-163492,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158934,Intel PROSet Wireless Wi-Fi Software and Intel Wireless Bluetooth Advisory,"CVE-2024-23198, CVE-2024-28049, CVE-2024-25563, CVE-2024-24984",https://support.lenovo.com/us/en/product_security/LEN-158934,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158933,Intel Chipset Firmware Advisory,"CVE-2023-38655, CVE-2023-40067, CVE-2023-34424, CVE-2023-35061, CVE- 2024-21844, CVE-2023-48361",https://support.lenovo.com/us/en/product_security/LEN-158933,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158632,"Multi-vendor BIOS Security Vulnerabilities (May, 2024)","CVE-2023-27504, CVE-2023-28383, CVE-2023-28402, CVE-2023-45733, CVE-2023-45745, CVE-2023-46103, CVE-2023-47252, CVE-2023-47855, CVE-2024-0762, CVE-2024-1598, CVE-2024-25078, CVE-2024-25079, CVE-2024-27353,",https://support.lenovo.com/us/en/product_security/LEN-158632,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158418,AMD Radeon Vulnerabilities,"CVE-2024-21972, CVE-2024-21979",https://support.lenovo.com/us/en/product_security/LEN-158418,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158299,Intel ISH Software Installer Advisory,CVE-2024-23974,https://support.lenovo.com/us/en/product_security/LEN-158299,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-156779,Intel DTT Software Installer Advisory,CVE-2024-21813,https://support.lenovo.com/us/en/product_security/LEN-156779,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-156778,Intel Arc & Iris Xe Graphics Software Advisory,CVE-2024-21864,https://support.lenovo.com/us/en/product_security/LEN-156778,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-155025,AMD Graphics Driver Vulnerabilities,"CVE-2021-26367, CVE-2023-20509, CVE-2023-20510, CVE-2023-20512, CVE-2023-20513, CVE-2023-31304, CVE-2023-31305, CVE-2023-31307, CVE-2023-31310",https://support.lenovo.com/us/en/product_security/LEN-155025,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-152842,Intel Arc Control Software Advisory,"CVE-2023-29165, CVE-2023-27305, CVE-2023-25952, CVE-2022-42879",https://support.lenovo.com/us/en/product_security/LEN-152842,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-150742,Intel ProSet Wireless WiFi and Bluetooth Advisory,"CVE-2023-38654, CVE-2023-47859, CVE-2023-47210, CVE-2023-45845, CVE- 2023-38417, CVE-2023-40536",https://support.lenovo.com/us/en/product_security/LEN-150742,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-150692,"Multi-vendor BIOS Security Vulnerabilities (February, 2024)","CVE-2021-38575, CVE-2021-38576, CVE-2021-38578, CVE-2021-42299, CVE-2023-20576, CVE-2023-20577, CVE-2023-20579, CVE-2023-20587, CVE-2023-25174, CVE-2023-28388, CVE-2023-28739, CVE-2023-29153, CVE-2023-31346, CVE-2023-31347, CVE-2023-34469, CVE-2023-34470, CVE-2023-35841, CVE-2023-45229, CVE-2023-45230, CVE-2023-45231, CVE-2023-45232, CVE-2023-45233, CVE-2023-45234, CVE-2023-45235",https://support.lenovo.com/us/en/product_security/LEN-150692,Product Impact:,"Network boot options such as PXE Boot should only be used on trusted networks that are properly segmented and isolated.
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['Additional mitigations for CVE-2023-45229, CVE-2023-45230, CVE-2023-45231, CVE-2023-45232, CVE-2023-45233, CVE-2023-45234, and CVE-2023-45235 include the following:']"
+LEN-149654,AMD GPU Memory Leak Advisory,CVE-2023-4969,https://support.lenovo.com/us/en/product_security/LEN-149654,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-145284,BIOS Image Parsing Function Vulnerabilities (LogoFAIL),"CVE-2023-5058, CVE-2023-39538, CVE-2023-39539, CVE-2023-40238",https://support.lenovo.com/us/en/product_security/LEN-145284,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-144841,NVIDIA GPU Display Driver Advisory - October 2023,"CVE-2023-31017, CVE-2023-31019, CVE-2023-31016, CVE-2023-31020, CVE-2023-31022, CVE-2023-31023, CVE-2023-31018, CVE-2023-31026, CVE-2023-31021, CVE-2023-31027",https://support.lenovo.com/us/en/product_security/LEN-144841,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-142128,Intel Chipset Software and SPS Advisory,"CVE-2023-35191, CVE-2023-28389, CVE-2023-32633, CVE-2023-27502",https://support.lenovo.com/us/en/product_security/LEN-142128,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-140141,Multi-vendor BIOS Security Vulnerabilities (November 2023),"CVE-2021-26345, CVE-2021-46758, CVE-2021-46766, CVE-2021-46774, CVE-2022-23820, CVE-2022-23821, CVE-2022-23830, CVE-2023-20519, CVE-2023-20521, CVE-2023-20526, CVE-2023-20533, CVE-2023-20563, CVE-2023-20565, CVE-2023-20566, CVE-2023-20571, CVE-2023-20592, CVE-2023-20596, CVE-2023-22329, CVE-2023-23583, CVE-2023-25756, CVE-2023-30633, CVE-2023-31100, CVE-2023-34195",https://support.lenovo.com/us/en/product_security/LEN-140141,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-135397,"AMD Graphics Driver Vulnerabilities- November, 2023","CVE-2023-20567, CVE-2023-20568, CVE-2023-31320, CVE-2021-46748",https://support.lenovo.com/us/en/product_security/LEN-135397,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-130338,Intel Graphics Driver Advisory,"CVE-2023-29165, CVE-2023-27305, CVE-2023-25952, CVE-2022-42879, CVE-2023-25071, CVE-2023-28401, CVE-2023-28404",https://support.lenovo.com/us/en/product_security/LEN-130338,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-171198,Intel EMA Software Advisory,CVE-2024-32483,https://support.lenovo.com/us/en/product_security/LEN-171198,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-150808,NVIDIA GPU Display Driver - February 2024,"CVE-2024-0071, CVE-2024-0073, CVE-2024-0074, CVE-2024-0075, CVE-2024-0078, CVE-2022-42265, CVE-2024-0077, CVE-2024-0079",https://support.lenovo.com/us/en/product_security/LEN-150808,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-149644,Intel Thunderbolt Driver Advisory,CVE-2022-37410,https://support.lenovo.com/us/en/product_security/LEN-149644,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-141775,Multi-vendor BIOS Security Vulnerabilities (October 2023),"CVE-2023-5075, CVE-2023-5078, CVE-2023-20594, CVE-2023-20597, CVE-2023-25493, CVE-2023-25494, CVE-2023-43567, CVE-2023-43568, CVE-2023-43569, CVE-2023-43570, CVE-2023-43571, CVE-2023-43572, CVE-2023-43573, CVE-2023-43574, CVE-2023-43575, CVE-2023-43576, CVE-2023-43577, CVE-2023-43578, CVE-2023-43579, CVE-2023-43580, CVE-2023-43581, CVE-2023-45075, CVE-2023-45076, CVE-2023-45077, CVE-2023-45078, CVE-2023-45079",https://support.lenovo.com/us/en/product_security/LEN-141775,Product Impact:,"AMI has released security enhancements for AMI BIOS.  No CVE available.
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['AMD reported memory leak vulnerabilities in the AMD DXE driver in Server and Client desktops and mobile APUs/CPUs that could allow a highly privileged user to obtain sensitive information. AMD-SB-4007: CVE-2023-20594, CVE-2023-20597', 'A potential vulnerability was reported in the BIOS of some Lenovo Notebook products that could allow a local attacker with elevated privileges to execute arbitrary code. CVE-2023-5075', 'A potential vulnerability was reported in the BIOS of some Lenovo ThinkPad products that could allow a physical or local attacker with elevated privileges to tamper with BIOS firmware. CVE-2023-5078', 'A potential vulnerability was reported in the BIOS update tool driver for some Desktop, Smart Edge, Smart Office, and ThinkStation products that could allow a local user with elevated privileges to execute arbitrary code.\xa0CVE-2023-25493', 'Potential vulnerabilities were reported in the BIOS of some Desktop, Smart Edge, and ThinkStation products that could allow a local attacker with elevated privileges to write to NVRAM variables. CVE-2023-25494, CVE-2023-45075, CVE-2023-45076, CVE-2023-45077, CVE-2023-45078, CVE-2023-45079', 'Potential vulnerabilities were reported in the BIOS of some Lenovo Desktop products that could allow a local attacker with elevated privileges to execute arbitrary code or disclose sensitive information. CVE-2023-43567, CVE-2023-43568, CVE-2023-43569, CVE-2023-43570, CVE-2023-43571, CVE-2023-43572, CVE-2023-43573, CVE-2023-43574, CVE-2023-43575, CVE-2023-43576, CVE-2023-43577, CVE-2023-43578, CVE-2023-43579, CVE-2023-43580, CVE-2023-43581.']"
+LEN-137494,Intel PROSet Wireless WiFi and Killer WiFi Software Advisory,"CVE-2023-33875, CVE-2023-28720, CVE-2023-32642, CVE-2023-34983, CVE-2023-35061, CVE-2023-28374, CVE-2023-25951, CVE-2023-26586, CVE-2023-32651, CVE-2023-32644",https://support.lenovo.com/us/en/product_security/LEN-137494,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-134879,Multi-vendor BIOS Security Vulnerabilities (August 2023),"CVE-2022-24351, CVE-2022-27879, CVE-2022-37343, CVE-2022-38083, CVE-2022-40982, CVE-2022-41804, CVE-2022-43505, CVE-2022-44611, CVE-2022-46897, CVE-2023-2004, CVE-2023-20555, CVE-2023-20569, CVE-2023-23908, CVE-2023-26090, CVE-2023-27471, CVE-2023-28468, CVE-2023-31041, CVE-2023-34419, CVE-2023-4028, CVE-2023-4029, CVE-2023-4030",https://support.lenovo.com/us/en/product_security/LEN-134879,Update system firmware to the version (or newer) indicated for your model in the Product Impact section.,"AMI has released security enhancements for AMI BIOS.  No CVE available.
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+Intel Guidance for INTEL-SA-00828:
+Intel determined this mitigation will be enabled by default in updated microcode. Users may be able to opt-out of the mitigation using hardware controls exposed by their OS/VMM, which can be used to avoid performance impact for affected workloads.  For most workloads, Intel has not observed reduced performance due to this mitigation. However, certain vectorization-heavy workloads may see some impact. Intel encourages customers to review our technical documentation to understand options available to reduce or eliminate any performance impact.","['AMD reported a SMM memory corruption vulnerability in SMM driver that could lead to arbitrary code execution.\xa0 AMD-SB-4003: CVE-2023-20555', 'AMD reported a side channel attack known as ‘Inception’ or ‘RAS Poisoning’ that may allow an attacker to influence branch prediction, potentially leading to information disclosure. AMD-SB-7005: CVE-2023-20569', 'Insyde reported the CapsuleIFWUSmm driver does not check the return value which may cause memory leak.\xa0 INSYDE-SA-2023018: CVE-2022-46897', 'Insyde reported an architectural flaw in how the Insyde H20 UEFI code handles configuring UEFI NVRAM variables.\xa0 INSYDE-SA-2023034: CVE-2023-26090', ""Insyde reported some Insyde UEFI implementations do not correctly protect and validate information contained in the 'MeSetup' UEFI variable. INSYDE-SA-2023036: CVE-2023-27471"", 'Insyde reported a time of check time of use (TOCTOU) access after measurement that allows redirected code execution.\xa0 INSYDE-SA-2023038: CVE-2022-24351', 'Insyde reported the FvbServicesRuntimeDxe SMM module exposes an SMI handler that allows an attacker to interact with the SPI flash at run-time from the OS. INSYDE-SA-2023039: CVE-2023-28468', 'Insyde reported an issue was discovered in SysPasswordDxe in Insyde InsydeH2O with kernel 5.0 through 5.5.\xa0 System password information could optionally be stored in cleartext. INSYDE-SA-2023047: CVE-2023-31041', 'Insyde reported an integer overflow vulnerability was discovered in Freetype in tt_hvadvance_adjust() function in src/truetype/ttgxvar.c. INSYDE-SA-2023048: CVE-2023-2004', 'Intel reported potential security vulnerabilities in the BIOS firmware for some Intel Processors that may allow escalation of privilege, information disclosure or denial of service.\xa0 2023.3 IPU - INTEL-SA-00813: CVE-2022-37343, CVE-2022-44611, CVE-2022-27879, CVE-2022-38083, CVE-2022-43505', 'Intel reported a potential security vulnerability in some Intel Processors that may allow information disclosure.\xa0 2023.3 IPU - INTEL-SA-00828: CVE-2022-40982', 'Intel reported an improper access control vulnerability in some 3rd Generation Intel Xeon Scalable processors that may allow a privileged user to potentially enable information disclosure via local access.\xa0 2023.3 IPU - INTEL-SA-00836: CVE-2023-23908', 'Intel reported a potential security vulnerability in some Intel Xeon Processors with Intel Software Guard Extensions (SGX) or Intel Trust Domain Extension (TDX) that may allow escalation of privilege.\xa0 2023.3 IPU - INTEL-SA-00837: CVE-2022-41804', 'A buffer overflow has been identified in the SetupUtility driver in some Lenovo Notebook products which may allow an attacker with local access and elevated privileges to execute arbitrary code. CVE-2023-34419', 'A buffer overflow has been identified in the SystemUserMasterHddPwdDxe driver in some Lenovo Notebook products which may allow an attacker with local access and elevated privileges to execute arbitrary code. CVE-2023-4028', 'A buffer overflow has been identified in the BoardUpdateAcpiDxe driver in some Lenovo ThinkPad products which may allow an attacker with local access and elevated privileges to execute arbitrary code. CVE-2023-4029', 'A vulnerability was reported in BIOS for ThinkPad P14s Gen 2, P15s Gen 2, T14 Gen 2, and T15 Gen 2 that could cause the system to recover to insecure settings if the BIOS becomes corrupt. CVE-2023-4030']"
+LEN-121185,Intel Chipset Firmware Advisory,"CVE-2022-36392, CVE-2022-38102, CVE-2022-29871",https://support.lenovo.com/us/en/product_security/LEN-121185,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-115697,TianoCore EDK II BIOS Vulnerabilities,"CVE-2022-36763, CVE-2022-36764, CVE-2022-36765",https://support.lenovo.com/us/en/product_security/LEN-115697,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-167701,Intel VROC Software Advisory,"CVE-2024-29079, CVE-2024-32485",https://support.lenovo.com/us/en/product_security/LEN-167701,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-163020,NVIDIA GPU Display Driver - June 2024,"CVE-2024-0084, CVE-2024-0085, CVE-2024-0086, CVE-2024-0089, CVE-2024-0090, CVE-2024-0091, CVE-2024-0092, CVE-2024-0093, CVE-2024-0094, CVE-2024-0099",https://support.lenovo.com/us/en/product_security/LEN-163020,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158935,Intel Connectivity Performance Suite Software Installer Advisory,CVE-2023-43747,https://support.lenovo.com/us/en/product_security/LEN-158935,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158929,Intel TDX Module Software Advisory,CVE-2024-27457,https://support.lenovo.com/us/en/product_security/LEN-158929,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158177,Intel HID Event Filter Software Installer Advisory,CVE-2024-25561,https://support.lenovo.com/us/en/product_security/LEN-158177,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-147237,Synaptics Fingerprint Driver Vulnerability,CVE-2023-5447,https://support.lenovo.com/us/en/product_security/LEN-147237,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-130057,AMD Cross-Process Information Leak,CVE-2023-20593,https://support.lenovo.com/us/en/product_security/LEN-130057,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-171275,Intel Optane PMem Management Software Advisory,CVE-2024-36275,https://support.lenovo.com/us/en/product_security/LEN-171275,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-163493,Intel Ethernet Controllers and Adapters Advisory,"CVE-2024-21810, CVE-2024-23497, CVE-2024-23981, CVE-2024-24986, CVE- 2024-21807, CVE-2024-21769, CVE-2024-24983, CVE-2024-23499, CVE-2024-21806",https://support.lenovo.com/us/en/product_security/LEN-163493,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-156780,Intel Ethernet Controller Administrative Tools Installer Software Advisory,CVE-2024-21828,https://support.lenovo.com/us/en/product_security/LEN-156780,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-179274,Brocade Fabric OS - Security Update,"CVE-2022-1304, CVE-2022-48624, CVE-2023-52160, CVE-2023-6129, CVE-2023-6237, CVE-2023-7104, CVE-2024-10403, CVE-2024-1086, CVE-2024-4603, CVE-2024-7516, CVE-2024-7517",https://support.lenovo.com/us/en/product_security/LEN-179274,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-171279,Intel IPP Software Advisory,CVE-2024-28952,https://support.lenovo.com/us/en/product_security/LEN-171279,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-171278,Intel VTune Profiler Advisory,"CVE-2024-36245, CVE-2024-37027",https://support.lenovo.com/us/en/product_security/LEN-171278,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-171277,Intel Graphics Driver Advisory,CVE-2024-38387,https://support.lenovo.com/us/en/product_security/LEN-171277,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-171276,Intel SGX SDK Advisory,CVE-2024-34776,https://support.lenovo.com/us/en/product_security/LEN-171276,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-167702,Intel CST Software Advisory,CVE-2024-29076,https://support.lenovo.com/us/en/product_security/LEN-167702,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158927,Intel Ethernet Adapter Driver Pack Software Installer Advisory,CVE-2024-22376,https://support.lenovo.com/us/en/product_security/LEN-158927,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-155804,Fingerprint Reader Vulnerabilities,"CVE-2024-23592, CVE-2023-50430, CVE-2024-0454",https://support.lenovo.com/us/en/product_security/LEN-155804,"For devices with Goodix fingerprint readers, upgrade to the driver version (or newer) indicated for your model in the Product Impact section below. Enabling ESS is not required for Goodix fingerprint readers.","Guidance on enabling ESS can be found at the following link:https://support.lenovo.com/solutions/ht511313
+
+To determine the manufacturer of a fingerprint reader included in a Lenovo device, follow the following steps:",[]
+LEN-155009,Intel Chipset Device Software Advisory,CVE-2024-21814,https://support.lenovo.com/us/en/product_security/LEN-155009,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-155477,"Multi-vendor BIOS Security Vulnerabilities (March, 2024)","CVE-2020-5952, CVE-2022-30426, CVE-2023-22655, CVE-2023-28149, CVE-2023-28746, CVE-2023-32282, CVE-2023-32666, CVE-2023-38575, CVE-2023-39281, CVE-2023-39283, CVE-2023-39284, CVE-2023-39368, CVE-2023-5912",https://support.lenovo.com/us/en/product_security/LEN-155477,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-142133,AMD Radeon Graphics Kernel Driver Privilege Management Vulnerability,CVE-2023-20598,https://support.lenovo.com/us/en/product_security/LEN-142133,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-106015,AMD Graphics OpenSSL Vulnerabilities,"CVE-2022-3602, CVE-2022-3786",https://support.lenovo.com/us/en/product_security/LEN-106015,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-163506,Intel VROC Software Advisory,CVE-2024-23489,https://support.lenovo.com/us/en/product_security/LEN-163506,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-115701,Intel PROSet Wireless WiFi and Killer WiFi Advisory,"CVE-2022-27635, CVE-2022-46329, CVE-2022-40964, CVE-2022-36351, CVE-2022-38076",https://support.lenovo.com/us/en/product_security/LEN-115701,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158394,Dolby Vision Provisioning Vulnerability,CVE-2024-5474,https://support.lenovo.com/us/en/product_security/LEN-158394,,,
+LEN-91929,"Intel PROSet Wireless WiFi, Intel vPro CSME WiFi and Killer WiFi Advisory",CVE-2022-26047,https://support.lenovo.com/us/en/product_security/LEN-91929,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-172051,Lenovo XClarity Controller (XCC) Vulnerabilities,"CVE-2024-8278, CVE-2024-8279, CVE-2024-8280, CVE-2024-8281, CVE-2024-8059",https://support.lenovo.com/us/en/product_security/LEN-172051,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-167313,NetApp SnapCenter Information Disclosure Vulnerability,CVE-2024-21993,https://support.lenovo.com/us/en/product_security/LEN-167313,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-167072,Mediatek Tablet Vulnerability,CVE-2024-20021,https://support.lenovo.com/us/en/product_security/LEN-167072,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-154748,Lenovo XClarity Administrator (LXCA) Vulnerabilities,"CVE-2024-45101, CVE-2024-45102, CVE-2024-45103, CVE-2024-45104",https://support.lenovo.com/us/en/product_security/LEN-154748,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-155486,LDCC and LADM Privilege Escalation Vulnerabilities,"CVE-2024-2175, CVE-2024-4763",https://support.lenovo.com/us/en/product_security/LEN-155486,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-150740,MediaTek Tablet Vulnerability,CVE-2023-32871,https://support.lenovo.com/us/en/product_security/LEN-150740,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-163508,Intel VTune Profiler Software Advisory,CVE-2024-29015,https://support.lenovo.com/us/en/product_security/LEN-163508,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-163507,Intel EMON Software Advisory,CVE-2024-28953,https://support.lenovo.com/us/en/product_security/LEN-163507,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158417,AMI MegaRAC Vulnerability,CVE-2018-25103,https://support.lenovo.com/us/en/product_security/LEN-158417,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note:Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158501,Lenovo Tab K10 Vulnerability,CVE-2024-4786,https://support.lenovo.com/us/en/product_security/LEN-158501,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-124490,Intel Thunderbolt DCH Drivers for Windows Advisory,"CVE-2023-22293, CVE-2023-25777, CVE-2023-22342, CVE-2023-25779, CVE-2023-24542, CVE-2023-22390, CVE-2023-24481, CVE-2023-24589, CVE-2023-22848, CVE-2023-25769, CVE-2023-26585, CVE-2023-27308, CVE-2023-24463, CVE-2023-27301, CVE-2023-27307, CVE-2023-27300, CVE-2023-26592, CVE-2023-27303, CVE-2023-26596, CVE-2023-26591",https://support.lenovo.com/us/en/product_security/LEN-124490,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-156781,Lenovo XClarity Controller (XCC) Vulnerabilities,"CVE-2024-38508, CVE-2024-38509, CVE-2024-38510, CVE-2024-38511, CVE-2024-38512",https://support.lenovo.com/us/en/product_security/LEN-156781,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-95137,AMD SPI Lock Bypass Vulnerability,CVE-2022-23829,https://support.lenovo.com/us/en/product_security/LEN-95137,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-129488,NVIDIA Display Driver Advisory - June 2023,"CVE-2022-34671, CVE-2023-25515, CVE-2023-25516, CVE-2023-25517",https://support.lenovo.com/us/en/product_security/LEN-129488,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-120653,NVIDIA Display Driver Advisory - March 2023,"CVE-2023-0189, CVE-2023-0184, CVE-2023-0182, CVE-2023-0181, CVE-2023-0191, CVE-2023-0183, CVE-2023-0180, CVE-2023-0185, CVE-2023-0198, CVE-2023-0187, CVE-2023-0199, CVE-2023-0186, CVE-2023-0190, CVE-2023-0188, CVE-2023-0192, CVE-2023-0194, CVE-2023-0195, CVE-2023-0197",https://support.lenovo.com/us/en/product_security/LEN-120653,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-124495,Multi-vendor BIOS Security Vulnerabilities (May 2023),"CVE-2021-26354, CVE-2021-26356, CVE-2021-26365, CVE-2021-26371, CVE-2021-26379, CVE-2021-26391, CVE-2021-26392, CVE-2021-26393, CVE-2021-26397, CVE-2021-26406, CVE-2021-46749, CVE-2021-46753, CVE-2021-46754, CVE-2021-46755, CVE-2021-46756, CVE-2021-46759, CVE-2021-46760, CVE-2021-46762, CVE-2021-46763, CVE-2021-46764, CVE-2021-46765, CVE-2021-46769, CVE-2021-46773, CVE-2021-46775, CVE-2021-46792, CVE-2021-46794, CVE-2022-23818, CVE-2022-33894, CVE-2022-38087, CVE-2022-48181, CVE-2022-48188, CVE-2023-20520, CVE-2023-20524, CVE-2023-27373",https://support.lenovo.com/us/en/product_security/LEN-124495,Product Impact:,"AMI has released security enhancements for AMI BIOS.  No CVE available.
+Phoenix has released security enhancements for Phoenix BIOS. No CVE available.
+
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['AMD reported potential vulnerabilities in AMD Client platforms. AMD-SB-4001: CVE-2021-26354, CVE-2021-46774, CVE-2021-26371, CVE-2021-26391, CVE-2021-26392, CVE-2021-46760, CVE-2021-46773, CVE-2021-46756, CVE-2021-46753, CVE-2021-46754, CVE-2021-26365, CVE-2021-26356, CVE-2021-26393, CVE-2021-26406, CVE-2021-46749, CVE-2021-46755, CVE-2021-46792, CVE-2021-46794, CVE-2021-46765, CVE-2021-46759.', 'AMD reported potential vulnerabilities in AMD Server platforms. AMD-SB-3001:CVE-2021-26354, CVE-2021-26356, CVE-2021-26371, CVE-2021-26379, CVE-2021-26397, CVE-2021-26406, CVE-2021-46756, CVE-2021-46763, CVE-2021-46764, CVE-2021-46769, CVE-2021-46762, CVE-2021-46775, CVE-2022-23818, CVE-2023-20520, CVE-2023-20524.', 'Insyde reported an out-of-bounds memory read in a runtime-writable EFI variable that could lead to a denial of service. INSYDE-SA-2023028: CVE-2023-25600', 'Insyde reported an input validation issue in a runtime-accessible EFI variable that could cause a dynamic BAR setting to overlap SMRAM. INSYDE-SA-2023035: CVE-2023-27373', 'Insyde reported vulnerabilities in BIOS PNG Decoder libs. \xa0INSYDE-SA-2023016: CVE-2019-17178', 'Intel reported potential security vulnerabilities in BIOS firmware for \xa0for some Intel processors may allow escalation of privilege and information disclosure. INTEL-SA-00807: CVE-2022-33894, CVE-2022-38087', 'A stack-based buffer overflow vulnerability in the ErrorMessage BIOS driver of some Lenovo Desktop and ThinkStation models could allow an attacker with local access to elevate their privileges and execute arbitrary code.\xa0 CVE-2022-48181', 'A buffer overflow vulnerability in the SecureBootDXE BIOS driver of some Lenovo Desktop and ThinkStation models could allow an attacker with local access to elevate their privileges to execute arbitrary code. \xa0CVE-2022-48188']"
+LEN-73438,Intel PROSet Wireless WiFi and Killer WiFi Software Advisory,"CVE-2021-33113, CVE-2021-33114, CVE-2021-33115",https://support.lenovo.com/us/en/product_security/LEN-73438,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-163429,Lenovo Service Bridge Vulnerability,CVE-2024-4696,https://support.lenovo.com/us/en/product_security/LEN-163429,,,
+LEN-149642,Intel CST Software Advisory,"CVE-2023-40155, CVE-2023-43487, CVE-2023-39433, CVE-2023-41082",https://support.lenovo.com/us/en/product_security/LEN-149642,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-115703,Intel Ethernet Adapters and Intel Ethernet Controller I225 Advisory,"CVE-2021-33141, CVE-2021-33162, CVE-2021-33157, CVE-2021-33161, CVE-2021-37341, CVE-2021-33145, CVE-2021-33158, CVE-2021-33142, CVE-2021-33146",https://support.lenovo.com/us/en/product_security/LEN-115703,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-145288,Intel Ethernet Tools and Driver Install Software Advisory,"CVE-2023-33870, CVE-2023-39432",https://support.lenovo.com/us/en/product_security/LEN-145288,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-158422,Brocade Fabric OS - Security Update,"CVE-2023-3454, CVE-2023-5973",https://support.lenovo.com/us/en/product_security/LEN-158422,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-152165,Intel VTUNE Profiler Advisory,CVE-2023-45320,https://support.lenovo.com/us/en/product_security/LEN-152165,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-155481,NetApp SnapCenter Improper Authorization Vulnerability,CVE-2024-21987,https://support.lenovo.com/us/en/product_security/LEN-155481,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-87734,Lenovo XClarity Controller (XCC) Vulnerabilities,"CVE-2022-34884, CVE-2022-34888",https://support.lenovo.com/us/en/product_security/LEN-87734,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-140960,Lenovo XClarity Controller (XCC) Vulnerabilities,"CVE-2023-4606, CVE-2023-4607, CVE-2023-4608",https://support.lenovo.com/us/en/product_security/LEN-140960,Product Impact:,"Follow general security best practices, such as limiting access to only trusted users within the network.
+
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-121183,Lenovo UDC Vulnerability,CVE-2023-3078,https://support.lenovo.com/us/en/product_security/LEN-121183,,,
+LEN-154269,Intel VROC Software Advisory,"CVE-2023-31271, CVE-2023-32646, CVE-2023-34315",https://support.lenovo.com/us/en/product_security/LEN-154269,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-140420,System Management Module (SMM v1 and v2) and Fan Power Controller (FPC) Vulnerabilities,"CVE-2023-4855, CVE-2023-4856, CVE-2023-4857, CVE-2024-2659",https://support.lenovo.com/us/en/product_security/LEN-140420,Product Impact:,"Follow general security best practices, such as limiting access to only trusted users within the network.
+
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-132277,PC System Recovery Bootloader Vulnerabilities,"CVE-2024-23593, CVE-2024-23594",https://support.lenovo.com/us/en/product_security/LEN-132277,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-121190,AMI MegaRAC Vulnerability,CVE-2023-28863,https://support.lenovo.com/us/en/product_security/LEN-121190,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note:Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-147238,Android OS Vulnerability,CVE-2023-45779,https://support.lenovo.com/us/en/product_security/LEN-147238,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-142135,Lenovo Tablet Vulnerabilities,"CVE-2022-20072, CVE-2023-5080, CVE-2023-5081",https://support.lenovo.com/us/en/product_security/LEN-142135,,"See details on updating your Lenovo Android devicehere.
+
+Click below links to view affected products:
+Lenovo Tablet
+
+Acknowledgement:
+
+References:
+https://corp.mediatek.com/product-security-bulletin/April-2022
+https://pcsupport.lenovo.com/us/en/solutions/ht117027
+
+Revision History:",['Lenovo thanks Ryan Johnson and Mohamed Elsabagh of Quokka for reporting CVE-2023-5080 and CVE-2023-5081.']
+LEN-140937,Intel Rapid Storage Technology Software Advisory,CVE-2023-39230,https://support.lenovo.com/us/en/product_security/LEN-140937,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-87863,Multi-vendor BIOS Security Vulnerabilities (May 2022),"CVE-2021-33117, CVE-2021-0153, CVE-2021-0154, CVE-2021-0155, CVE-2021-0159, CVE-2021-0188, CVE-2021-0189, CVE-2021-0190, CVE-2021-33103, CVE-2021-33122, CVE-2021-33123, CVE-2021-33124, CVE-2022-0005, CVE-2022-21131, CVE-2022-21136, CVE-2022-21151, CVE-2020-12931, CVE-2020-12944, CVE-2020-12946, CVE-2020-12951, CVE-2021-26312, CVE-2021-26335, CVE-2021-26336, CVE-2021-26337, CVE-2021-26339, CVE-2021-26351, CVE-2021-26352, CVE-2021-26361, CVE-2021-26362, CVE-2021-26363, CVE-2021-26366, CVE-2021-26368, CVE-2021-26369, CVE-2021-26372, CVE-2021-26373, CVE-2021-26375, CVE-2021-26376, CVE-2021-26378, CVE-2021-26386, CVE-2021-26388, CVE-2021-26390, CVE-2021-26317, CVE-2021-39298, CVE-2021-26384, CVE-2021-26342, CVE-2021-26347, CVE-2021-26348, CVE-2021-26349, CVE-2021-26364, CVE-2021-26350",https://support.lenovo.com/us/en/product_security/LEN-87863,Product Impact:,"Mitigation Strategy for Customers (what you should do to protect yourself):
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['Intel reported a potential security vulnerability in some 3rd Generation Intel Xeon Scalable Processors that may allow information disclosure. INTEL-SA-00586: CVE-2021-33117', 'Intel reported potential security vulnerabilities in the BIOS firmware or BIOS authenticated code module for some Intel Processors that may allow escalation of privilege or information disclosure. INTEL-SA-00601: CVE-2021-0153, CVE-2021-0154, CVE-2021-0155, CVE-2021-0159, CVE-2021-0188, CVE-2021-0189, CVE-2021-0190, CVE-2021-33103, CVE-2021-33122, CVE-2021-33123, CVE-2021-33124', 'Intel reported a potential security vulnerability in the Intel Software Guard Extensions (SGX) Platform that may allow information disclosure. INTEL-SA-00614: CVE-2022-0005', 'Intel reported potential security vulnerabilities in some Intel Xeon Processors that may allow information disclosure or denial of service. INTEL-SA-00616: CVE-2022-21131, CVE-2022-21136', 'Intel reported a potential security vulnerability in some Intel Processors that may allow information disclosure. INTEL-SA-00617: CVE-2022-21151', 'AMD reported potential vulnerabilities in AMD Client platforms. AMD-SB-1027: CVE-2020-12944, CVE-2020-12946, CVE-2020-12951, CVE-2021-26312, CVE-2021-26335, CVE-2021-26336, CVE-2021-26337, CVE-2021-26339, CVE-2021-26351, CVE-2021-26352, CVE-2021-26361, CVE-2021-26362, CVE-2021-26363, CVE-2021-26366, CVE-2021-26368, CVE-2021-26369, CVE-2021-26372, CVE-2021-26373, CVE-2021-26375, CVE-2021-26376, CVE-2021-26378, CVE-2021-26386, CVE-2021-26388, CVE-2021-26390, CVE-2021-26317, CVE-2021-39298, CVE-2021-26339, CVE-2021-26384', 'AMD reported potential vulnerabilities in AMD Server platforms. AMD-SB-1028: CVE-2021-26339, CVE-2021-26342, CVE-2021-26347, CVE-2021-26348, CVE-2021-26349, CVE-2021-26372, CVE-2021-26373, CVE-2021-26375, CVE-2021-26376, CVE-2021-26378, CVE-2021-26388, CVE-2021-26364, CVE-2021-26312, CVE-2021-26350']"
+LEN-102354,Intel Integrated Sensor Solution Advisory,CVE-2022-30339,https://support.lenovo.com/us/en/product_security/LEN-102354,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-91370,NVIDIA Display Driver Advisory - August 2022,"CVE-2022-31606, CVE-2022-31607, CVE-2022-31608, CVE-2022-31610, CVE-2022-31612, CVE-2022-31613, CVE-2022-34665, CVE-2022-34666, CVE-2022-31616, CVE-2022-31617, CVE-2022-31609, CVE-2022-31614, CVE-2022-31618, CVE-2022-31615",https://support.lenovo.com/us/en/product_security/LEN-91370,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-150741,NetApp Clustered Data ONTAP Vulnerabilities,"CVE-2024-21982, CVE-2024-21985",https://support.lenovo.com/us/en/product_security/LEN-150741,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-103982,NVIDIA GPU Display Driver Advisory - November 2022,"CVE-2022-34669, CVE-2022-34671, CVE-2022-34672, CVE-2022-34670, CVE-2022-42267, CVE-2022-42263, CVE-2022- 34676, CVE-2022-42264, CVE-2022-34674, CVE-2022-34678, CVE-2022-34679, CVE-2022-34680, CVE-2022-34677, CVE-2022-34681, CVE-2022-34682, CVE-2022-34683, CVE-2022-42266, CVE-2022-42257, CVE-2022-42265, CVE-2022- 34684, CVE-2022-42254, CVE-2022-42258, CVE-2022-42255, CVE-2022-42256, CVE-2022-34673, CVE-2022-42259, CVE 2022-42260, CVE-2022-42261, CVE-2022-42262, CVE-2022-34675",https://support.lenovo.com/us/en/product_security/LEN-103982,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-99960,2023.1 IPU Intel Chipset Firmware Advisory,"CVE-2022-36348, CVE-2022-36794",https://support.lenovo.com/us/en/product_security/LEN-99960,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-107840,Multi-Vendor BIOS Security Vulnerabilities (February 2023),"CVE-2022-32471, CVE-2022-32475, CVE-2022-32470, CVE-2022-32469, CVE-2022-32477, CVE-2022-32473, CVE-2022-32476, CVE-2022-32472, CVE-2022-32478, CVE-2022-32474, CVE-2022-32953, CVE-2022-32954, CVE-2022-32955, CVE-2022-32952, CVE-2022-32951, CVE-2022-33972",https://support.lenovo.com/us/en/product_security/LEN-107840,Product Impact:,"AMI has released security enhancements for AMI BIOS.  No CVE available.
+Phoenix has released security enhancements for Phoenix BIOS. No CVE available.
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['Insyde reported several TOCTOU vulnerabilities affecting Insyde BIOS code. \xa0INSYDE-SA-2023003: CVE-2022-32471, CVE-2022-32475, CVE-2022-32470, CVE-2022-32469, CVE-2022-32477, CVE-2022-32473, CVE-2022-32476, CVE-2022-32472, CVE-2022-32478, CVE-2022-32474, CVE-2022-32953, CVE-2022-32954, CVE-2022-32955, CVE-2022-32952, CVE-2022-32951', 'Intel reported a potential security vulnerability in some 3rd Generation Intel Xeon Scalable Processors that may allow information disclosure.\xa0 INTEL-SA-00730: CVE-2022-33972', 'Intel reported potential security vulnerabilities in the BIOS firmware and Intel Trusted Execution Technology (TXT) Secure Initialization (SINIT) Authenticated Code Modules (ACM) for some Intel Processors that may allow escalation of privilege.\xa0 INTEL-SA-00717: CVE-2022-26343, CVE-2022-30539, CVE-2022-32231, CVE-2022-26837, CVE-2022-30704, CVE-2021-0187', 'Intel reported a potential security vulnerability in some Intel Processors with Intel Software Guard Extensions (SGX) may allow information disclosure. INTEL-SA-00767:\xa0 CVE-2022-38090', 'Intel reported a potential security vulnerability in some Intel® Xeon Processors with Intel Software Guard Extensions (SGX) that may allow escalation of privilege. \xa0INTEL-SA-00738: CVE-2022-33196', 'Intel reported a potential security vulnerability in some Intel Atom and Intel Xeon Scalable Processors may allow escalation of privilege. \xa0 INTEL-SA-00700: CVE-2022-21216']"
+LEN-115634,Insyde BIOS Vulnerabilities,"CVE-2023-22614, CVE-2023-22616, CVE-2023-22613, CVE-2023-22615, CVE-2023-22612, CVE-2022-24350",https://support.lenovo.com/us/en/product_security/LEN-115634,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-150020,Intel SPS End of Manufacturing Not Executed for Certain ThinkSystem SR670V2 Servers,CVE-2024-23591,https://support.lenovo.com/us/en/product_security/LEN-150020,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-152496,Intel QAT Software Advisory,CVE-2023-41252,https://support.lenovo.com/us/en/product_security/LEN-152496,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-148889,AMI MegaRAC Vulnerabilities,AMI (No CVEs),https://support.lenovo.com/us/en/product_security/LEN-148889,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note:Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-140527,Intel Dynamic Tuning Technology Advisory,CVE-2022-29470,https://support.lenovo.com/us/en/product_security/LEN-140527,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-135372,AMI MegaRAC Vulnerabilities,"CVE-2023-37293, CVE-2023-37297, CVE-2023-37296, CVE-2023-37295, CVE-2023-37294, CVE-2023-3043, CVE-2023-34333",https://support.lenovo.com/us/en/product_security/LEN-135372,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note:Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-136592,Lenovo XClarity Administrator (LXCA) Vulnerability,CVE-2023-4605,https://support.lenovo.com/us/en/product_security/LEN-136592,Product Impact:,"Follow general security best practices, such as limiting access to only trusted users within the environment.
+Only grant LXCA remote console/mount privileges to trusted administrative users.
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-144736,Lenovo Vantage Vulnerabilities,"CVE-2023-6043, CVE-2023-6044",https://support.lenovo.com/us/en/product_security/LEN-144736,,,
+LEN-94533,Third-party Bootloader Vulnerabilities,"CVE-2022-34301, CVE-2022-34302, CVE-2022-34303",https://support.lenovo.com/us/en/product_security/LEN-94533,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-77470,Intel Chipset Firmware Advisory,"CVE-2021-33159, CVE-2022-26845, CVE-2022-29893, CVE-2022-27497, CVE-2022-29466, CVE-2022-29515",https://support.lenovo.com/us/en/product_security/LEN-77470,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-90565,Realtek High-Definition Audio Driver Vulnerability,CVE-2021-32537,https://support.lenovo.com/us/en/product_security/LEN-90565,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-93889,AMD Client Vulnerabilities - January 2023,"CVE-2021-26316, CVE-2021-26346,CVE-2021-46795",https://support.lenovo.com/us/en/product_security/LEN-93889,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-106014,ThinkPad BIOS Vulnerabilities,"CVE-2022-3728, CVE-2022-48182, CVE-2022-48183, CVE-2022-4573, CVE-2022-4574 CVE-2022-4575, CVE-2022-48189, CVE-2023-2290",https://support.lenovo.com/us/en/product_security/LEN-106014,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-144731,NetApp SnapCenter Privilege Escalation Vulnerability,CVE-2023-27316,https://support.lenovo.com/us/en/product_security/LEN-144731,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-102363,Multi-Vendor BIOS Security Vulnerabilities (November 2022),"CVE-2022-40246, CVE-2022-40250, CVE-2022-40262, CVE-2022-26006, CVE-2022-21198, CVE-2021-33164, CVE-2022-33176, CVE-2022-37345, CVE-2022-21794, CVE-2022-34152, CVE-2022-32569, CVE-2022-36789, CVE-2022-35276, CVE-2022-26124, CVE-2022-36370, CVE-2022-37334, CVE-2022-36349, CVE-2022-38099, CVE-2022-36337, CVE-2022-35407, CVE-2022-35897, CVE-2022-36338, CVE-2022-35894, CVE-2022-35408, CVE-2022-36448, CVE-2022-35895, CVE-2022-35896, CVE-2022-35893",https://support.lenovo.com/us/en/product_security/LEN-102363,Product Impact:,"AMI has released security enhancements for AMI BIOS. No CVE available.
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['AMI reported a stack overflow vulnerability in SMI handler of AMI BIOS that could allow an attacker to execute arbitrary code in SMM. CVE-2022-40246', 'AMI reported a stack overflow vulnerability in SMI handler of AMI BIOS that could allow an attacker to execute arbitrary code in SMM. CVE-2022-40250', 'AMI reported an arbitrary write vulnerability of AMI BIOS that could allow an attacker to execute arbitrary code during PEI phase. CVE-2022-40262', 'Intel reported potential security vulnerabilities in the BIOS firmware for some Intel Processors that may allow escalation of privilege. 2022.3 IPU, INTEL-SA-00688: CVE-2022-26006, CVE-2022-21198', 'A Time of Check Time of Use (TOCTOU) vulnerability was reported in BIOS implementations. This vulnerability is referred to by the researcher as Ringhopper. VU#434994: CVE-2021-33164, CVE-2022-33176, CVE-2022-37345, CVE-2022-21794, CVE-2022-34152, CVE-2022-32569, CVE-2022-36789, CVE-2022-35276, CVE-2022-26124, CVE-2022-36370, CVE-2022-37334, CVE-2022-36349, CVE-2022-38099', 'Insyde has released security enhancements the Insyde BIOS. INSYDE-SA-2022039: CVE-2022-36337, INSYDE-SA-2022040: CVE-2022-35407, INSYDE-SA-2022041: CVE-2022-35897, INSYDE-SA-2022029: CVE-2022-36338, INSYDE-SA-2022030: CVE-2022-35894, INSYDE-SA-2022031: CVE-2022-35408, INSYDE-SA-2022032: CVE-2022-36448, INSYDE-SA-2022033: CVE-2022-35895, INSYDE-SA-2022034: CVE-2022-35896, INSYDE-SA-2022035: CVE-2022-35893']"
+LEN-127385,Lenovo Preload Directory Vulnerability,CVE-2023-4706,https://support.lenovo.com/us/en/product_security/LEN-127385,,,
+LEN-103547,Intel Ethernet Controllers and Adapters Advisory,CVE-2022-36382,https://support.lenovo.com/us/en/product_security/LEN-103547,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-90913,"AMD Graphics Driver Vulnerabilities- November, 2022","CVE-2020-12930, CVE-2020-12931, CVE-2021-26360, CVE-2021-26391, CVE-2021-26392, CVE-2021-26393, CVE-2022-23817",https://support.lenovo.com/us/en/product_security/LEN-90913,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-135367,Lenovo System Update Vulnerability,CVE-2023-4632,https://support.lenovo.com/us/en/product_security/LEN-135367,,,
+LEN-135344,Lenovo View Denial of Service Vulnerability,CVE-2023-4891,https://support.lenovo.com/us/en/product_security/LEN-135344,,,
+LEN-91369,Lenovo Notebook BIOS Vulnerabilities,"CVE-2022-1890, CVE-2022-1891, CVE-2022-1892",https://support.lenovo.com/us/en/product_security/LEN-91369,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-84943,ThinkPad BIOS Vulnerabilities,"CVE-2022-1107, CVE-2022-1108",https://support.lenovo.com/us/en/product_security/LEN-84943,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-76563,Quectel Wireless WAN Driver Command Injection Vulnerability,CVE-2022-40283,https://support.lenovo.com/us/en/product_security/LEN-76563,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-66616,Intel SGX SDK Advisory,CVE-2021-0186,https://support.lenovo.com/us/en/product_security/LEN-66616,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-84070,Intel PROSet Wireless WiFi and Killer WiFi Advisory,"CVE-2022-21181, CVE-2021-37409, CVE-2021-23223, CVE-2021-23168, CVE-2021-44545, CVE-2021-26254, CVE-2022-21172, CVE-2022-21240, CVE-2022-21139, CVE-2022-21197, CVE-2022-21160, CVE-2021-23188, CVE-2022-21212, CVE-2022-21140",https://support.lenovo.com/us/en/product_security/LEN-84070,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-77639,Multi-vendor BIOS Security Vulnerabilities (February 2022),"CVE-2021-0091, CVE-2021-0092, CVE-2021-0093, CVE-2021-0099, CVE-2021-0103, CVE-2021-0107, CVE-2021-0111, CVE-2021-0114, CVE-2021-0115, CVE-2021-0116, CVE-2021-0117, CVE-2021-0118, CVE-2021-0119, CVE-2021-0124, CVE-2021-0125, CVE-2021-0156, CVE-2021-0127, CVE-2021-0145, CVE-2021-4210, CVE-2021-4211, CVE-2021-4212, CVE-2021-33120",https://support.lenovo.com/us/en/product_security/LEN-77639,Product Impact:,"AMI has released security enhancements for AMI BIOS. No CVE available. Tracked internally as LEN-71534.
+Phoenix has released security enhancements for Phoenix BIOS. No CVE available.
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['Intel reported potential security vulnerabilities in the BIOS firmware for some Intel Processors that may allow escalation of privilege, denial of service or information disclosure. INTEL-SA-00527: CVE-2021-0091, CVE-2021-0092, CVE-2021-0093, CVE-2021-0099, CVE-2021-0103, CVE-2021-0107, CVE-2021-0111, CVE-2021-0114, CVE-2021-0115, CVE-2021-0116, CVE-2021-0117, CVE-2021-0118, CVE-2021-0119, CVE-2021-0124, CVE-2021-0125, CVE-2021-0156', 'Intel reported a potential security vulnerability in some Intel processors that may allow a denial of service. INTEL-SA-00532: CVE-2021-0127', 'Intel reported a potential security vulnerability in some Intel Processors that may allow information disclosure. INTEL-SA-00561: CVE-2021-0145', 'Intel reported a potential security vulnerability in some Intel Atom Processors that may allow information disclosure or denial of service. INTEL-SA-00589: CVE-2021-33120', 'A potential vulnerability in the SMI callback function used in the NVME driver in some Lenovo Desktop, ThinkStation, and ThinkEdge models may allow an attacker with local access and elevated privileges to execute arbitrary code. CVE-2021-4210', 'A potential vulnerability in the SMI callback function used in the SMBIOS event log driver in some Lenovo Desktop, ThinkStation, and ThinkEdge models may allow an attacker with local access and elevated privileges to execute arbitrary code. CVE-2021-4211', 'A potential vulnerability in the SMI callback function used in the Legacy BIOS mode driver in some Lenovo Notebook models may allow an attacker with local access and elevated privileges to execute arbitrary code. CVE-2021-4212']"
+LEN-73436,InsydeH2O UEFI System Management Mode (SMM) Vulnerabilities,"CVE-2020-27339, CVE-2020-5953, CVE-2021-33625, CVE-2021-33626, CVE-2021-33627, CVE-2021-41837, CVE-2021-41838, CVE-2021-41839, CVE-2021-41840, CVE-2021-41841, CVE-2021-42059, CVE-2021-42060, CVE-2021-42113, CVE-2021-42554, CVE-2021-43323, CVE-2021-43522, CVE-2021-43615, CVE-2021-45969, CVE-2021-45970, CVE-2021-45971, CVE-2022-24030, CVE-2022-24031, CVE-2022-24069",https://support.lenovo.com/us/en/product_security/LEN-73436,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-62744,Intel Graphics Drivers Advisory,"CVE-2021-0061, CVE-2021-0062, CVE-2021-0012",https://support.lenovo.com/us/en/product_security/LEN-62744,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-48101,AMI MegaRAC SP-X BMC Vulnerabilities,No CVEs - AMI,https://support.lenovo.com/us/en/product_security/LEN-48101,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-118321,Lenovo XClarity Controller (XCC) Vulnerabilities,"CVE-2023-29056, CVE-2023-29057, CVE-2023-29058",https://support.lenovo.com/us/en/product_security/LEN-118321,Product Impact:,"Follow general security best practices, such as limiting access to only trusted users within the network.
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-102357,"Intel AMT SDK, Intel EMA and Intel MC Advisory",CVE-2022-26341,https://support.lenovo.com/us/en/product_security/LEN-102357,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-128081,Elliptic Labs Virtual Lock Sensor Vulnerability,CVE-2023-3112,https://support.lenovo.com/us/en/product_security/LEN-128081,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-87819,NVIDIA GPU Display Driver Advisory - May 2022,"CVE-2022-28181, CVE-2022-28182, CVE-2022-28183, CVE-2022-28184, CVE-2022-28185, CVE-2022-28186, CVE-2022-28187, CVE-2022-28188, CVE-2022-28189, CVE-2022-28190, CVE-2022-28191, CVE-2022-28192",https://support.lenovo.com/us/en/product_security/LEN-87819,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-118375,AMI MegaRAC SP-X BMC Vulnerabilities,"CVE-2023-34472, CVE-2023-34473, CVE-2023-34471, CVE-2023-34337, CVE-2023-34338",https://support.lenovo.com/us/en/product_security/LEN-118375,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note:Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-105117,AMI MegaRAC SP-X BMC Redfish Vulnerabilities,"CVE-2023-25191, CVE-2023-25192",https://support.lenovo.com/us/en/product_security/LEN-105117,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note: Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-72619,ThinkPad BIOS Vulnerabilities,"CVE-2021-3718, CVE-2021-3843",https://support.lenovo.com/us/en/product_security/LEN-72619,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-118320,Nuvoton TPM Denial of Service Vulnerability,CVE-2023-1017,https://support.lenovo.com/us/en/product_security/LEN-118320,Product Impact:,"A full AC power cycle (hard reset) will restore functionality to Nuvoton's NPCT65x TPM if it enters protection mode as a result of an attack related to this vulnerability.
+
+ThinkAgile customers:
+For Nutanix software, seehttps://www.nutanix.com/trust/security-advisoriesfor risk exposure, resolution and mitigations.
+For VMware software and appliances, seehttps://www.vmware.com/security/advisories.htmlfor risk exposure, resolution and mitigations.
+
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-125170,AMI MegaRAC SP-X BMC Redfish Vulnerabilities,"CVE-2023-34329, CVE-2023-34330",https://support.lenovo.com/us/en/product_security/LEN-125170,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note:Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-132938,AMD SEV VM Power Side Channel Security Notice,CVE-2023-20575,https://support.lenovo.com/us/en/product_security/LEN-132938,,,
+LEN-77468,Intel Processors MMIO Stale Data Advisory,"CVE-2022-21123, CVE-2022-21125, CVE-2022-21127, CVE-2022-21166",https://support.lenovo.com/us/en/product_security/LEN-77468,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-102359,Intel SGX SDK Advisory,CVE-2022-27499,https://support.lenovo.com/us/en/product_security/LEN-102359,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-102353,Intel SGX SDK Advisory,"CVE-2022-26509, CVE-2022-26841",https://support.lenovo.com/us/en/product_security/LEN-102353,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-98715,Lenovo XClarity Administrator (LXCA) Vulnerabilities,"CVE-2023-3113, CVE-2023-34418, CVE-2023-34420, CVE-2023-34421, CVE-2023-34422",https://support.lenovo.com/us/en/product_security/LEN-98715,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-127357,System Management Module (SMM) v1 and v2 / Fan Power Controller (FPC) Vulnerabilities,"CVE-2023-2992, CVE-2023-2993",https://support.lenovo.com/us/en/product_security/LEN-127357,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-76573,Apache Log4j Vulnerability,"CVE-2021-44228, CVE-2021-45046, CVE-2021-45105, CVE-2021-4104, CVE-2021-44832",https://support.lenovo.com/us/en/product_security/LEN-76573,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-68054,Synaptics Fingerprint Driver Vulnerability,CVE-2021-3675,https://support.lenovo.com/us/en/product_security/LEN-68054,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-103544,ThinkPad Dock Firmware Update Tool Elevation of Privilege Vulnerability,CVE-2022-4569,https://support.lenovo.com/us/en/product_security/LEN-103544,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-123896,SLP Protocol Denial-of-Service Guidance,CVE-2023-29552,https://support.lenovo.com/us/en/product_security/LEN-123896,,,
+LEN-84069,Intel Wireless Bluetooth and Killer Bluetooth Advisory,"CVE-2021-33847, CVE-2021-26257, CVE-2021-26950, CVE-2021-23179",https://support.lenovo.com/us/en/product_security/LEN-84069,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-76841,Intel Wireless Bluetooth and Killer Bluetooth Advisory,"CVE-2021-33139, CVE-2021-33155",https://support.lenovo.com/us/en/product_security/LEN-76841,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-77636,NVIDIA GPU Display Driver Advisory - February 2022,"CVE-2022-21813, CVE-2022-21814, CVE-2022-21815, CVE-2022-21816",https://support.lenovo.com/us/en/product_security/LEN-77636,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-102352,Crypto API Toolkit for Intel SGX Advisory,CVE-2022-21163,https://support.lenovo.com/us/en/product_security/LEN-102352,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-113714,Lenovo Smart Clock Essential Vulnerability,CVE-2023-0896,https://support.lenovo.com/us/en/product_security/LEN-113714,,,
+LEN-94953,Multi-Vendor BIOS Security Vulnerabilities (September 2022),"CVE-2021-28216, CVE-2022-40134, CVE-2022-40135, CVE-2022-40136, CVE-2022-40137",https://support.lenovo.com/us/en/product_security/LEN-94953,Product Impact:,"AMI has released security enhancements for AMI BIOS. No CVE available.
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['Tianocore reported a fixed pointer vulnerability in TianoCore EDK II BIOS that may allow an attacker with local access and elevated privileges to execute arbitrary code. TianoCore EDK II is the foundational open source UEFI (BIOS) code used throughout industry in all modern computers. CVE-2021-28216', 'A buffer overflow in the WMI SMI Handler in some Lenovo models may allow an attacker with local access and elevated privileges to execute arbitrary code. CVE-2022-40137', 'An information leak vulnerability in the SMI Set BIOS Password SMI Handler in some Lenovo models may allow an attacker with local access and elevated privileges to read SMM memory. CVE-2022-40134', 'An information leak vulnerability in the Smart USB Protection SMI Handler in some Lenovo models may allow an attacker with local access and elevated privileges to read SMM memory. CVE-2022-40135', 'An information leak vulnerability in SMI Handler used to configure platform settings over WMI in some Lenovo models may allow an attacker with local access and elevated privileges to read SMM memory. CVE-2022-40136']"
+LEN-73437,Intel Wireless Bluetooth and Killer Bluetooth for Windows Advisory,CVE-2021-33110,https://support.lenovo.com/us/en/product_security/LEN-73437,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-105064,AMI MegaRAC SP-X BMC Vulnerabilities,"CVE-2022-40258, CVE-2022-26872",https://support.lenovo.com/us/en/product_security/LEN-105064,Product Impact:,"AMI also recommends that customers continue to maintain strict access controls to BMC devices.
+Note: Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-99936,Lenovo XClarity Controller (XCC) Vulnerabilities,"CVE-2023-0683, CVE-2023-25492, CVE-2023-25495",https://support.lenovo.com/us/en/product_security/LEN-99936,Product Impact:,"Follow general security best practices, such as limiting access to only trusted users within the network.
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-103545,Lenovo System Update Elevation of Privileges Vulnerability,CVE-2022-4568,https://support.lenovo.com/us/en/product_security/LEN-103545,,,
+LEN-78122,Intel Graphics Drivers Advisory,"CVE-2021-0121, CVE-2021-0120",https://support.lenovo.com/us/en/product_security/LEN-78122,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-67364,AMD Chipset Driver Information Disclosure Vulnerability,CVE-2021-26333,https://support.lenovo.com/us/en/product_security/LEN-67364,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-62745,"Intel PROSet Wireless Wi-Fi, Intel AMT Wireless and Killer Wi-Fi Software Advisory","CVE-2021-0161, CVE-2021-0162, CVE-2021-0163, CVE-2021-0164, CVE-2021-0165, CVE-2021-0066, CVE-2021-0166, CVE-2021-0167, CVE-2021-0169, CVE-2021-0168, CVE-2021-0170, CVE-2021-0171, CVE-2021-0172, CVE-2021-0173, CVE-2021-0174, CVE-2021-0175, CVE-2021-0076, CVE-2021-0176, CVE-2021-0177, CVE-2021-0178, CVE-2021-0179, CVE-2021-0183, CVE-2021-0072",https://support.lenovo.com/us/en/product_security/LEN-62745,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-52051,AMD Graphics Driver for Windows 10 Vulnerabilities,"CVE-2020-12893, CVE-2020-12894, CVE-2020-12895, CVE-2020-12897, CVE-2020-12898, CVE-2020-12899, CVE-2020-12900, CVE-2020-12901, CVE-2020-12902, CVE-2020-12903, CVE-2020-12904, CVE-2020-12905, CVE-2020-12920, CVE-2020-12962, CVE-2020-12963, CVE-2020-12964",https://support.lenovo.com/us/en/product_security/LEN-52051,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-118374,TPM 2.0 Vulnerabilities,"CVE-2023-1017, CVE-2023-1018",https://support.lenovo.com/us/en/product_security/LEN-118374,,,
+LEN-91930,Intel PROSet Wireless WiFi Software Advisory,CVE-2022-28667,https://support.lenovo.com/us/en/product_security/LEN-91930,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-102351,Intel Ethernet VMware Drivers Advisory,"CVE-2022-36416, CVE-2022-36797",https://support.lenovo.com/us/en/product_security/LEN-102351,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-91933,Multi-vendor BIOS Security Vulnerabilities (August 2022),"CVE-2022-21233, CVE-2021-33060",https://support.lenovo.com/us/en/product_security/LEN-91933,Product Impact:,"Phoenix has released security enhancements for Phoenix BIOS. No CVE available.
+
+Mitigation Strategy for Customers (what you should do to protect yourself):
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:","['Intel reported a potential security vulnerability in some Intel Processors that may allow information disclosure. INTEL-SA-00657: CVE-2022-21233', 'Intel reported a potential security vulnerability in the BIOS firmware for some Intel Processors that may allow escalation of privilege. INTEL-SA-00686: CVE-2021-33060']"
+LEN-75197,Intel AMT Advisory,CVE-2021-33107,https://support.lenovo.com/us/en/product_security/LEN-75197,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-68030,Intel Chipset Firmware Advisory,"CVE-2021-0060, CVE-2021-0147, CVE-2021-33068",https://support.lenovo.com/us/en/product_security/LEN-68030,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-103710,Lenovo Notebook BIOS Vulnerabilities,"CVE-2022-3742, CVE-2022-3743, CVE-2022-3744, CVE-2022-3745, CVE-2022-3746",https://support.lenovo.com/us/en/product_security/LEN-103710,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-94952,Lenovo Notebook BIOS Vulnerabilities,"CVE-2022-3430, CVE-2022-3431, CVE-2022-3432",https://support.lenovo.com/us/en/product_security/LEN-94952,,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-98711,AMI MegaRAC SP-X BMC Vulnerabilities,"CVE-2022-40259, CVE-2022-40242, CVE-2022-2827",https://support.lenovo.com/us/en/product_security/LEN-98711,Product Impact:,"AMI also recommends  that customers continue to maintain strict access controls to BMC devices.
+Note: Hyperscale customers: Please contact your Lenovo service representative for update information.
+
+
+To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-87730,AMD Server Vulnerabilities - January 2023,"CVE-2021-26316, CVE-2021-26328, CVE-2021-26343, CVE-2021-26353, CVE-2021-26355, CVE-2021-26396, CVE-2021-26398, CVE-2021-26402, CVE-2021-26403, CVE-2021-26404, CVE-2021-26407, CVE-2021-26409, CVE-2021-39298, CVE-2021-46767, CVE-2021-46768, CVE-2021-46779, CVE-2021-46791, CVE-2022-23813, CVE-2022-23814, CVE-2023-20522, CVE-2023-20523, CVE-2023-20525, CVE-2023-20527, CVE-2023-20528, CVE-2023-20529, CVE-2023-20530, CVE-2023-20531, CVE-2023-20532",https://support.lenovo.com/us/en/product_security/LEN-87730,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-84095,Intel Boot Guard and Intel TXT Advisory,CVE-2022-0004,https://support.lenovo.com/us/en/product_security/LEN-84095,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-72218,NVIDIA GPU Display Driver Advisory - October 2021,"CVE-2021-1115, CVE-2021-1116, CVE-2021-1117, CVE-2021-1118, CVE-2021-1119, CVE-2021-1120, CVE-2021-1121, CVE-2021-1122, CVE-2021-1123",https://support.lenovo.com/us/en/product_security/LEN-72218,Product Impact:,"To download the version specified for your product below, follow these steps:
+Navigate to the Drivers & Software support site for your product:",[]
+LEN-103709,ThinkPad X13s BIOS Vulnerabilities,"CVE-2022-40516, CVE-2022-40517, CVE-2022-40518, CVE-2022-40519, CVE-2022-40520, CVE-2022-4432, CVE-2022-4433, CVE-2022-4434, CVE-2022-4435",https://support.lenovo.com/us/en/product_security/LEN-103709,,,
